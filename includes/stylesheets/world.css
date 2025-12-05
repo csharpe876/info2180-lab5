@@ -64,6 +64,21 @@ main {
     background-color: #45a049;
 }
 
+#lookup-cities {
+    padding: 8px 20px;
+    background-color: #2196F3;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+    margin-left: 10px;
+}
+
+#lookup-cities:hover {
+    background-color: #0b7dda;
+}
+
 /* Results section */
 #result {
     margin-top: 20px;
